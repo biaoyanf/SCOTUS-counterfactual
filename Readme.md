@@ -12,7 +12,8 @@ This repository contains code introduced in the following paper:
 
 ## Dataset 
 
-- This dataset a subset of [the Super-SCOTUS dataset](https://github.com/biaoyanf/Super-SCOTUS), a multi-sourced dataset for the Supreme Court of the US. We make this subset available under the directory `generation_data`, which we used for the experiment in this paper. 
+- This dataset a subset of [the Super-SCOTUS dataset](https://github.com/biaoyanf/Super-SCOTUS), a multi-sourced dataset for the Supreme Court of the US. We make this subset available under [Harvard Database](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/C3FZAW). 
+- Download the related files and put them under directory `generation_data`, which we used for the experiment in this paper. 
 
 
 
@@ -27,5 +28,5 @@ This repository contains code introduced in the following paper:
 
 
 ## For the other work we have done 
--  
+- 
 - 
