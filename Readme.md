@@ -4,7 +4,7 @@
 
 This repository contains code introduced in the following paper:
 
-- It’s not only What You Say, It’s also Who It’s Said to: Counterfactual analysis of Interactive Behavior in the Courtroom
+- [It’s not only What You Say, It’s also Who It’s Said to: Counterfactual analysis of Interactive Behavior in the Courtroom](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-short/cdrom/pdf/2023.ijcnlp-short.22.pdf)
 
 - Biaoyan Fang, Trevor Cohn, Timothy Baldwin, and Lea Frermann 
 
